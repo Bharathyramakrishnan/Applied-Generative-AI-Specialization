@@ -5,3 +5,4 @@ Applied Generative AI Specialization
 -> ANN model with Iris Dataset <br />
 -> GAN Model with random numbers <br />
 -> HuggingFace & Langchain model invoking using direct Api and pipelines <br />
+-> NLP - Sentiment Analysis with e-commerce review data <br />
