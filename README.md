@@ -2,6 +2,6 @@
 Applied Generative AI Specialization
 
 # All Deeplearning codes
--> ANN model with Iris Dataset \n
--> GAN Model with random numbers \n 
--> HuggingFace & Langchain model invoking using direct Api and pipelines \n
+-> ANN model with Iris Dataset <br />
+-> GAN Model with random numbers <br />
+-> HuggingFace & Langchain model invoking using direct Api and pipelines <br />
